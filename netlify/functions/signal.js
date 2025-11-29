@@ -1,0 +1,1 @@
+netlify/functions/signal.js
